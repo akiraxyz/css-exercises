@@ -1,0 +1,15 @@
+.b_text,
+.button {
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
+
+.b_text{
+    color: white;
+    background-color: black;
+}
+
+.button{
+    color: black;
+    background-color: yellow;
+}
